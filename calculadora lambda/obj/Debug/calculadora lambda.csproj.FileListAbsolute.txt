@@ -1,0 +1,7 @@
+C:\Users\assue\Desktop\COISAS FACUL\TAP\calculadora lambda\calculadora lambda\bin\Debug\calculadora lambda.exe.config
+C:\Users\assue\Desktop\COISAS FACUL\TAP\calculadora lambda\calculadora lambda\bin\Debug\calculadora lambda.exe
+C:\Users\assue\Desktop\COISAS FACUL\TAP\calculadora lambda\calculadora lambda\bin\Debug\calculadora lambda.pdb
+C:\Users\assue\Desktop\COISAS FACUL\TAP\calculadora lambda\calculadora lambda\obj\Debug\calculadora lambda.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\COISAS FACUL\TAP\calculadora lambda\calculadora lambda\obj\Debug\calculadora lambda.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\COISAS FACUL\TAP\calculadora lambda\calculadora lambda\obj\Debug\calculadora lambda.exe
+C:\Users\assue\Desktop\COISAS FACUL\TAP\calculadora lambda\calculadora lambda\obj\Debug\calculadora lambda.pdb
